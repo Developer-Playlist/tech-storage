@@ -1,4 +1,5 @@
-https://www.youtube.com/watch?v=6xl3wKMjmWg
+<iframe width="1496" height="664" src="https://www.youtube.com/embed/6xl3wKMjmWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h3>WS와 WAS</h3>
 
