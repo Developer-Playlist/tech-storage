@@ -1,4 +1,4 @@
-{% _includes WS_WAS.html id="6xl3wKMjmWg" %}
+{% include WS_WAS.html id="6xl3wKMjmWg" %}
 
 <h3>WS와 WAS</h3>
 
