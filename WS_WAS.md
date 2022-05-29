@@ -1,5 +1,4 @@
-<iframe width="1496" height="664" src="https://www.youtube.com/embed/6xl3wKMjmWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+{% include WS_WAS.html id="6xl3wKMjmWg" %}
 
 <h3>WS와 WAS</h3>
 
