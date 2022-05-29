@@ -1,4 +1,7 @@
-{% include WS_WAS.html id="6xl3wKMjmWg" %}
+<h3>Youtube 참고자료</h3>
+{즉문즉설} WAS와 WS의 차이점은? (feat. Nginx, Node Express, Flask) 
+
+[![WS_WAS](https://i.ytimg.com/vi/6xl3wKMjmWg/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLAPDX4cbHWuKmJzy-aBQ45nMft-ag)](https://www.youtube.com/watch?v=6xl3wKMjmWg "{즉문즉설} WAS와 WS의 차이점은? (feat. Nginx, Node Express, Flask)"){: target="_blank"}
 
 <h3>WS와 WAS</h3>
 
