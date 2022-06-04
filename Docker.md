@@ -26,6 +26,9 @@
 - Docker의 life cycle에서 docker 이미지는 “build”의 부분에 해당
 - Docker container에서 실행시키고 싶은 application을 docker 이미지로 빌드해서 실행시키게 된다.
 
+- Docker Hub에서 미리 만들어져있는 docker 이미지를 다운로드 받을 수 있음. 
+- dockerfile 형식으로 나만의 이미지를 생성할 수 있음.
+
 3) Docker registries
 - docker 이미지를 저장하는 repository
 - Source code를 github에 저장하여 관리하듯 docker 이미지는 dockerhub 같은 docker registries에 저장한다고 생각
@@ -41,6 +44,9 @@
 - Docker compose는 복수의 docker container들을 모아서 종합적인 application stack을 정의 하고 운영할수 있도록 해주는 서비스
 - Compose 파일을 사용하여 전체적인 application 서비스를 설정한후, application을 이루고 있는 각각의 컨테이너들 (예를 들어, web 서버 컨테이너, api 서버 컨테이너 등등)을 따로 실행시킬 필요 없이 한번에 생성하고 실행할 수 있도록 해준다.
 - Docker swarm은 docker containers 들로 이러우진 cluster를 관리할수 있도록 해주는 서비스이다. 즉 docker container를 위한 clustering tool
+
+- docker-compose.yml 파일을 작성하여 실행할 수 있음. YAML형식으로 작성
+  제이슨 형식과 달리 스페이스 2칸 또는 4칸으로 작성
 
 ## 참고자료
 https://cultivo-hy.github.io/docker/image/usage/2019/03/14/Docker%EC%A0%95%EB%A6%AC/
